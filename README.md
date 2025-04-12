@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blueviolet" alt="Profile views" />
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/vikas-p-9274691ba"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="[www.linkedin.com/in/vikas-p-9274691ba](https://www.linkedin.com/in/vikas-p-9274691ba/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
