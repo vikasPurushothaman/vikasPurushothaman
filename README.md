@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Vikas P</h1>
 
 <p align="center">
-  Full-Stack Developer ⚡ | Mobile App Enthusiast 📱 | UI/UX Focused 🎨
+  Full-Stack Developer ⚡ | Mobile App Enthusiast 📱
 </p>
 
 <p align="center">
