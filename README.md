@@ -55,7 +55,7 @@
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 💼 [LinkedIn](www.linkedin.com/in/vikas-p-9274691ba)
 - 📧 vikaspurushothaman27@gmail.com
 
 ---
